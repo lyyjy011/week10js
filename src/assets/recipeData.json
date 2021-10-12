@@ -1,0 +1,32 @@
+[
+    {
+        "recipeId": "1",
+        "title": "Avocado Tacos",
+        "author": "Marco",
+        "date": "11th of June 2020, Sunday",
+        "image": "tacos.jpg",
+        "description": "Delcious fresh Tacos complemented with a rich avocado dressing.",
+        "likes": 3,
+        "isLiked": true
+    },
+    {
+        "recipeId": "2",
+        "title": "Scrambled Eggs",
+        "author": "Ramsay",
+        "date": "1st of May 2019, Friday",
+        "image": "eggs.jpg",
+        "description": "Fragrant Eggs.",
+        "likes": 0,
+        "isLiked": false
+    },
+    {
+        "recipeId": "3",
+        "title": "Chicken Korma",
+        "author": "Kim",
+        "date": "7th of September 2021, Wednesday",
+        "image": "korma.jpg",
+        "description": "Medium heat chicken curry.",
+        "likes": 1,
+        "isLiked": true
+    }
+]

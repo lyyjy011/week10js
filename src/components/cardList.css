@@ -1,0 +1,15 @@
+.cardList {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:  25%;
+}
+
+.cardList > * {
+    display: block;
+    margin-top: 30px;
+}
+
+.cardList > * :first-child {
+    margin-top: 0px;
+}
